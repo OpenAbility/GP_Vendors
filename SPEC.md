@@ -96,3 +96,17 @@ Additional mappings can be used freely, and can be handled as `unknown` if you d
 | `ps3` | A generic PS3-style controller(includes PSX and PS2) | 1.0 |
 | `ps4` | A generic PS4-style controller | 1.0 |
 | `switch` | A generic Nintendo Switch-style controller | 1.0 |
+
+## Vendors
+There are a number of valid vendors that can be used.
+
+This list only contains official ones.
+
+Additional vendors can be used freely, and can be handled as `unknown` if you don't support them.
+
+| Name | Description | Valid Since |
+| - | - | - |
+| `microsoft` | N/A | 1.0 |
+| `sony` | N/A | 1.0 |
+| `nintendo` | N/A | 1.0 |
+| `8bitdo` | N/A | 1.0 |
